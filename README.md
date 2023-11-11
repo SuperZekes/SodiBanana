@@ -1,3 +1,5 @@
+<a href="[https://github.com/intergrav/devins-badges](https://modrinth.com/modpack/sodibanana)"><img alt="github" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
+
 # Sodibanana 🍌
 ![sodibanana_logo](https://github.com/SuperZekes/Sodibanana/blob/main/sodibananalogo.png)
 
