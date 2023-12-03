@@ -1,6 +1,7 @@
 # Sodibanana 🍌
 <a href="https://modrinth.com/modpack/sodibanana"><img alt="github" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
 
+![Sodibananalogo](https://raw.githubusercontent.com/SuperZekes/Sodibanana/main/sodibananalogo.png)
 
 What is SodiBanana? SodiBanana is a simple optimization Modpack with some QoL features and Optifine features here and there, which makes it a great alternative to Optifine, from an FPS standpoint, and a features one too. All versions of SodiBanana are uploaded to SodiBanana's GitHub https://github.com/SuperZekes/Sodibanana
 
