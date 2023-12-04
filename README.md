@@ -21,6 +21,6 @@ What is SodiBanana? SodiBanana is a simple optimization Modpack with some QoL fe
 
 Find out how to sign up for minecraftcapes.net <a href="https://www.youtube.com/watch?v=qJ9mr7NtLpo">here</a>: If your signed up to minecraftcapes already, simply upload the cape and then use the capes mod to put on your minecraftcapes cape then your done!
 
-![cape](https://github.com/SuperZekes/Sodibanana/blob/main/sodibananacape.png)
+![cape]([https://github.com/SuperZekes/Sodibanana/blob/main/sodibananacape.png](https://raw.githubusercontent.com/SuperZekes/Sodibanana/main/sodibananacape.png)https://raw.githubusercontent.com/SuperZekes/Sodibanana/main/sodibananacape.png)
 
 #
